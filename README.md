@@ -1,5 +1,9 @@
 # ruby_macros
 
+<p align="center">
+  <img src="attr_accessor.gif">
+</p>
+
 #### Overview
 This is a lightweight repo demonstrating how ruby macros (i.e. class methods that dynamically generate instance methods) work! Macros pop up frequently in ruby applications. A couple of common examples are: 
 * Built-in instance attribute reader/writer methods (`attr_reader`, `attr_writer` and `attr_accessor`)
