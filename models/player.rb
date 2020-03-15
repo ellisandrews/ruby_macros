@@ -3,7 +3,7 @@ require_relative '../macros/base'
 
 class Player < CustomMacroBase
 
-    # Custom macros!
+    # Custom macro!
     attr_getter_and_setter :name, :number, :team
 
     @@all = []
