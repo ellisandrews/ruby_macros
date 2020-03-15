@@ -12,7 +12,7 @@ class Player < CustomMacroBase
         @name = name
         @number = number
         @team = team
-        @@all << self
+        @@all << self  # Keep track of created instances
     end
 
 end
