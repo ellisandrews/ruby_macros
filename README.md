@@ -1,5 +1,9 @@
 # ruby_macros
 
+A sandbox for demystifying macros in Ruby.
+
+<br>
+
 <p align="center">
   <img src="attr_accessor.gif">
 </p>
